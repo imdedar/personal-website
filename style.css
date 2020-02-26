@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather' ;
+}
+.special-name{
+    color: #5b8c5a;
+    font-size: 3.5rem;
+    font-weight: 900;
+    font-family: 'Sacramento';
+}
+.top-banner{
+    width: 100%;
+    height: 300px;
+}
+.header-img{
+    width: 100%;
+    height: 600px;
+
+}
+.half-width{
+    display: inline-block;
+    position: relative;
+    bottom: 300px;
+    left: 200px;
+    width: 40%;
+    float: left;
+}
+.peter-img{
+    width: 100%;
+    height: auto;
+    position: relative;
+    display: inline-block;
+    bottom: 250px;
+
+}
+p{
+    margin-bottom: 30px;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,forestgreen, greenyellow);
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: #ffffff;
+    font-weight: 700;
+}
+.button:hover{
+    color: darkcyan;
+    text-transform: uppercase;
+
+}
+.middle-banner{
+    width: 100%;
+    height: 300px;
+}
+.peter-dream{
+    width: 100%;
+    height: 700px;
+}
+.half-width-middle{
+    width: 40%;
+    float: right;
+    bottom: 100px;
+}
+.description{
+    background-image: url("latest-work-bg.png");
+    width: 100%;
+    height: 500px;
+    display: inline-block;
+    position: relative;
+}
+.work-heading{
+    text-align: center;
+    color: royalblue;
+    font-size: 3rem;
+}
+
+.work-1{
+    width: 30%;
+    height: 400px;
+    display: inline-block;
+    position: relative;
+    margin: 2%;
+}
+.work-2{
+    width: 30%
+    height: 400px;
+    display: inline-block;
+    position: relative;
+    margin: 2%;
+}
+.work-3{
+    widows: 30%;
+    height: 400px;
+    display: inline-block;
+    position: relative;
+    margin: 1%;
+}
+.image{
+    width: 400px;
+    height: 400px;
+    margin: 1%;
+    box-shadow: 10px 10px 70px greenyellow;
+    border-radius: 6px;
+}
+.footer{
+    background-image: url("footer-bg.png");
+    width: 100%;
+    height: 500px;
+    display: inline-block;
+    position: relative;
+}
+.feedback{
+    text-align: center;
+    margin-top: 80px;
+    
+}
+.client{
+    font-size: 4rem;
+}
+.name{
+    margin-top: 150px;
+}
+.fade-area{
+    color: silver;
+}
+.paragraph{
+    width: 600px;
+    text-align: center;
+    display: inline-block;
+}
+.message{
+    background-color: tomato;
+    width: auto;
+    height: 200px;
+    margin: 0 300px 20px;
+    border-radius: 10px;
+}
+.client-sms{
+    text-align: center;
+    padding-top: 50px;
+    color: #ffffff;
+}
+.email{
+    text-align: center;
+    padding-top: 10px;
+    color: #ffffff;
+}
+.footer-p{
+    text-align: center;
+    margin-top: 150px;
+    color: darkgrey;
+    font-size: 10px;
+}
